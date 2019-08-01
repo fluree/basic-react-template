@@ -31,3 +31,7 @@
     transform: rotate(360deg);
   }
 }
+
+.table > tbody > tr > td {
+  vertical-align: middle;
+}
